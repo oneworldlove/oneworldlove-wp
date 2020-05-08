@@ -4,7 +4,7 @@
  *
  * @link https://codex.wordpress.org/Creating_an_Error_404_Page
  *
- * @package One_World_Love
+ * @package OneWorldLove
  */
 
 get_header();

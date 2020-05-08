@@ -7,7 +7,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package One_World_Love
+ * @package OneWorldLove
  */
 
 /*
